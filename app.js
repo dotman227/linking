@@ -2,7 +2,7 @@
 const myButton = document.getElementById("blackBtn");
 
 myButton.addEventListener("click", function(){
-  document.body.style.backgroundColor = "black";
+  document.body.style.backgroundColor = "green";
 });
 
 const mySwitch = document.getElementById("blueBtn");
