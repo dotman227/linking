@@ -1,0 +1,50 @@
+body{
+
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQthjhdjBQLA2AcuHKzGhXWWzectWp_OlCrdg&s");
+   background-size: cover;
+   font-size:20px;
+   font-family:"Tahoma";
+}
+
+h1{
+  color:black;
+  background-color:white;
+  padding-top:10px;
+  border-left: 5px solid black;
+  border-radius: 10px;
+  margin-bottom:30px;
+  margin-top:100px;  
+}
+
+body{
+  background-color:purple;
+  font-family:'Montserrat', sans-serif;
+}
+
+div{
+  background-color:white;
+  width:250px;
+
+  border-radius:20px;   
+  overflow: hidden
+}
+
+header{
+  padding-top:25px;
+}
+
+
+button{
+  background-color:red;
+  color:white;
+}
+
+footer{
+
+  display:flex;
+
+}
+
+
+
+
