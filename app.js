@@ -8,7 +8,7 @@ myButton.addEventListener("click", function(){
 const mySwitch = document.getElementById("blueBtn");
 
 mySwitch.addEventListener("click", function(){
-  document.body.style.color = "red";
+  document.body.style.color = "white";
 });
 
 const students = ["toluwani", "abimbola", "micheal", "emmanuel", "frederick"];
