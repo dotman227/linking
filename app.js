@@ -1,3 +1,6 @@
+
+alert("HI");
+
 const myButton = document.getElementById("blackBtn");
 
 myButton.addEventListener("click", function(){
